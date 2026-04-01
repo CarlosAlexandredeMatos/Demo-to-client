@@ -1,4 +1,4 @@
 # Demo-to-client
 Project repository for demonstration of a field vision system for clients, demo version
 
-Repositório para demonstraçao na Datwyler
+Repositório para demonstraçao na Datwyler.
