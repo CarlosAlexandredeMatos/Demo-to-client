@@ -3,7 +3,7 @@ import cv2 as cv
 
 def template_scanner(frame):
     template = cv.imread('template1.jpg')
-    threshold = 0.4
+    threshold = 0.85
 
 
     resultado = cv.matchTemplate(frame, template, cv.TM_CCOEFF_NORMED)

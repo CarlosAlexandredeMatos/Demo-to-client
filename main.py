@@ -43,8 +43,6 @@ while True:
 
         if detected:
             print("Template detectado!")
-            cv.imshow('Inspeção', frame)
-
             # atualiza o tempo do último disparo
             last_detection_time = current_time
 
