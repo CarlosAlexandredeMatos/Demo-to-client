@@ -21,7 +21,7 @@ import cv2 as cv
 import time
 
 from src.open_camera.opening_camera import open_camera
-from src.trigger_camera.template_scan import template_scanner
+from src.similarity_template.autorization_to_trigger import template_scanner
 
 cap = open_camera()
 
